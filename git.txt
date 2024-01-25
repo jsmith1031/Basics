@@ -1,0 +1,14 @@
+What is the name of the author of the last commit on this version of git?
+    Junio C Hamano <gitster@pobox.com>
+
+How many objects share a partial match with the hash '8348'? 3) How many blobs, trees, and commits are there?
+    3 Blobs, 4 Trees, and 5 Commits
+
+In your own words, describe what this commit is doing?
+    the german language translations for git had some small changes
+
+ What is the name of the first file listed that changed between versions 2.31.0 and 2.31.1?
+    the first file listed for the changes between the versions was 2.31.1.txt in the Documentation/RelNotes/ folder
+
+How many total branches are there for the git repository?
+    7
